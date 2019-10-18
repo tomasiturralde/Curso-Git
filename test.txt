@@ -1,9 +1,7 @@
 esto es un archivo de prueba
 
-
-
 LISTA:
 Nicolás Padrós
 Georges Stefan
 Juan Giusti
-
+Maximiliano Adaro
