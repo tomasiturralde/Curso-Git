@@ -1,14 +1,4 @@
-<<<<<<< HEAD
-este es un archivo de prueba
-
-LISTA: 
-Lautaro-Urtasun
-ESTE ARCHIVO DE PRUEBA HA SIDO MODIFICADO
-=======
-esto es un archivo de prueba
-
-
 LISTA:
 Nicolás Padrós
 Georges Stefan
->>>>>>> origin
+Lautaro Urtasun
