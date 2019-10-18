@@ -1,10 +1,9 @@
 esto es un archivo de prueba
 
-<<<<<<< HEAD
 
 
 LISTA:
 Nicolás Padrós
 Georges Stefan
 Juan Giusti
->>>>>>> origin
+
