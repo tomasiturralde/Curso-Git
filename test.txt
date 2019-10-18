@@ -1,11 +1,17 @@
 esto es un archivo de prueba
 
 
+
 LISTA:
 Nicolás Padrós
-<<<<<<< HEAD
 Stefania Poracchia
-
-=======
 Georges Stefan
->>>>>>> origin
+
+Manuela Masjoan
+
+Georges Stefan
+
+Juan Giusti
+
+
+
