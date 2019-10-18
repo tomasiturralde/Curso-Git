@@ -1,7 +1,13 @@
 esto es un archivo de prueba
 
 LISTA:
-Nicolás Padrós
-Georges Stefan
-Juan Giusti
 Maximiliano Adaro
+
+Nicolás Padrós
+
+Manuela Masjoan
+
+Georges Stefan
+
+Juan Giusti
+
