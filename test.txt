@@ -1,5 +1,7 @@
-esto es un archivo de prueba 
+﻿esto es un archivo de prueba
+
 
 LISTA:
-
+Nicolás Padrós
 Ignacio Estevo
+
