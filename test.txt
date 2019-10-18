@@ -1,13 +1,19 @@
 esto es un archivo de prueba
 
 LISTA:
+<<<<<<< HEAD
 Maximiliano Adaro
 
 Nicolás Padrós
 
+=======
+>>>>>>> f2f07b683ff8831b223c1dfb5fd9b606d64c0ffe
 Manuela Masjoan
-
 Georges Stefan
-
+Lautaro Urtasun
 Juan Giusti
+<<<<<<< HEAD
 
+=======
+Nicolás Padrós
+>>>>>>> f2f07b683ff8831b223c1dfb5fd9b606d64c0ffe
