@@ -2,8 +2,12 @@ esto es un archivo de prueba
 
 LISTA:
 Maximiliano Adaro
+Nicolás Padrós
+Stefania Poracchia
+Georges Stefan
 Manuela Masjoan
 Georges Stefan
 Lautaro Urtasun
 Juan Giusti
-Nicolás Padrós
+
+
