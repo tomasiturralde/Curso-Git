@@ -4,3 +4,4 @@ esto es un archivo de prueba
 LISTA:
 Nicolás Padrós
 Georges Stefan
+Lautaro Urtasun
